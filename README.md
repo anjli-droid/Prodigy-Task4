@@ -29,7 +29,7 @@ Checked for common words in positive vs. negative tweets.
 
 Sentiment Analysis
 
-Implemented sentiment classification using VADER Sentiment Analyzer.
+Implemented sentiment classification using TEXTBLOB Sentiment Analyzer.
 
 Compared sentiment scores with labeled data.
 
@@ -45,16 +45,7 @@ Python
 
 Pandas & NumPy → Data Cleaning
 
-Matplotlib & Seaborn → Visualization
+Matplotlib → Visualization
 
-NLTK (VADER) / TextBlob → Sentiment Analysis
+TextBlob → Sentiment Analysis
 
-WordCloud → Text Visualization
-
-🔍 Key Insights
-
-Most tweets were labeled as Positive or Negative, with fewer Neutral ones.
-
-Certain keywords and hashtags were strongly associated with sentiment categories.
-
-VADER performed well in aligning with labeled sentiments.
