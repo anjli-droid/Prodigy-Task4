@@ -9,7 +9,7 @@ I used the Twitter Training Dataset provided by Prodigy InfoTech for the interns
 
 📂 Dataset
 
-Source: Twitter Training Dataset
+Source: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 The dataset contains tweets labeled with sentiment categories like Positive, Negative, Neutral, and Irrelevant.
 
